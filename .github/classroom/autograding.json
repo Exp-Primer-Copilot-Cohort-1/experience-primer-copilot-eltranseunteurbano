@@ -8,7 +8,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 2
     },
     {
       "name": "Step 1 Copilot Extension",
@@ -18,7 +18,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 2
     },
     {
       "name": "Step 2 javascript",
@@ -28,7 +28,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 2
     },
     {
       "name": "Step 3 Copilot Hub",
@@ -38,7 +38,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 2
     },
     {
       "name": "Step 4 Copilot comment",
@@ -48,7 +48,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 2
     },
     {
       "name": "Step 5 finish",
@@ -58,7 +58,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 2
     }
   ]
 }
